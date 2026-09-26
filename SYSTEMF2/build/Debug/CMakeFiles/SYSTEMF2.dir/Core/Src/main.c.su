@@ -1,0 +1,6 @@
+D:/project/SYSTEMF2/Core/Src/main.c:68:5:main	32	static
+D:/project/SYSTEMF2/Core/Src/main.c:116:6:SystemClock_Config	88	static
+D:/project/SYSTEMF2/Core/Src/main.c:162:13:MX_USART2_UART_Init	8	static
+D:/project/SYSTEMF2/Core/Src/main.c:195:13:MX_USART6_UART_Init	8	static
+D:/project/SYSTEMF2/Core/Src/main.c:228:13:MX_GPIO_Init	24	static
+D:/project/SYSTEMF2/Core/Src/main.c:253:6:Error_Handler	4	static
